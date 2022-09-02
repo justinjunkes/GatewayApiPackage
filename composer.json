@@ -1,5 +1,5 @@
 {
-    "name": "loafer/laravel-gateway-api",
+    "name": "justinjunkes/laravel-gateway-api",
     "description": "Unofficial laravel package for GatewayApi",
     "license": "MIT",
     "type": "library",
@@ -9,6 +9,12 @@
             "email": "platonpopelishin@gmail.com",
             "role": "Developer",
             "homepage": "https://github.com/Loafer19"
+        }
+        {
+            "name": "Justin Junkes",
+            "email": "info@junkes.it",
+            "role": "Developer",
+            "homepage": "https://junkes.it"
         }
     ],
     "require": {
